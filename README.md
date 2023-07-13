@@ -8,5 +8,6 @@
 <p>&bull; Adobe Illustrator</p>
 <p>&bull; Wix.com</p>
 
-Demo Link: https://h2awebsite.wixsite.com/new-site
+<hr>
+<h4>Demo Link: https://h2awebsite.wixsite.com/new-site</h4>
 
