@@ -2,13 +2,11 @@
 <h2>Worked with LakeMac City Council and Head Space Newcastle</h2>
 
 <h3>Tools used in the project: </h3>
-<p>Adobe Lightroom</p>
-<p>Adobe InDesign</p>
-<p>Adobe Spark</p>
-<p>Adobe Illustrator</p>
-<p>Wix.com</p>
-
-<br/>
+<p>&bull; Adobe Lightroom</p>
+<p>&bull; Adobe InDesign</p>
+<p>&bull; Adobe Spark</p>
+<p>&bull; Adobe Illustrator</p>
+<p>&bull; Wix.com</p>
 
 Demo Link: https://h2awebsite.wixsite.com/new-site
 
